@@ -1,12 +1,4 @@
-.section_size {
-  width: auto;
-  max-width: 1440px;
-  min-height: 720px;
-  max-height: auto;
-}
-
-body{
-max-width: 1440px;
+.container{
 margin: 0 auto !important;
 float: none !important;
 }
